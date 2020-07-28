@@ -3,3 +3,7 @@ This website is made by Me and Danish Singh Sethi(https://github.com/DanishSingh
 
 ## Some important things to note:
 * This website was made for a competition and hence the content is taken as an example and might not be truth. So, please don't rely on the content. Only see the design. We take copyrights for only the design and not for anything else.
+
+# Credits
+Sahil Garg (ME): Website code and designing,
+Dansih Singh Sethi (https://github.com/DanishSinghSethi/): Website content and pictures, and design improvements.
